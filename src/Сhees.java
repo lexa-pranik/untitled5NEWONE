@@ -6,6 +6,7 @@ public class Сhees {
                 a[i][j]='B';
                 if((i+j)%2 == 0) {
                     a[i][j] = 'W';
+                    a[i][j] = 'W';
                 }
                 System.out.print(a[i][j]+ " ");
             }
